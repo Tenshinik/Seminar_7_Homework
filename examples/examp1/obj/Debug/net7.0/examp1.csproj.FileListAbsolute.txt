@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\bin\Debug\net7.0\examp1.exe
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\bin\Debug\net7.0\examp1.deps.json
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\bin\Debug\net7.0\examp1.runtimeconfig.json
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\bin\Debug\net7.0\examp1.dll
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\bin\Debug\net7.0\examp1.pdb
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.dll
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\refint\examp1.dll
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.pdb
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\examp1.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\seminar_7_homework\examples\examp1\obj\Debug\net7.0\ref\examp1.dll
